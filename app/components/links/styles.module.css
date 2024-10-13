@@ -1,0 +1,10 @@
+.link {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.link img {
+  width: 1rem;
+  height: auto;
+}
