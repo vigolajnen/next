@@ -1,0 +1,17 @@
+.likes {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  display: flex;
+  gap: 2px;
+  align-items: center;
+  justify-content: start;
+
+  transition: 0.2s;
+}
+
+.likes:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
